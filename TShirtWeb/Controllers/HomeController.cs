@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-using TShirtWeb.Models;
+using TShirt.Models;
 
 namespace TShirtWeb.Controllers
 {

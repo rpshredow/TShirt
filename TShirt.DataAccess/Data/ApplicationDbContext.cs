@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using TShirtWeb.Models;
+using TShirt.Models;
 
-namespace TShirtWeb.Data;
+namespace TShirtWeb.DataAccess;
 
 public class ApplicationDbContext : IdentityDbContext<IdentityUser>
 {

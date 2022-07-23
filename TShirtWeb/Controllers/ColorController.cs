@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using TShirtWeb.Data;
-using TShirtWeb.Models;
+using TShirt.Models;
+using TShirtWeb.DataAccess;
 
 namespace TShirtWeb.Controllers
 {

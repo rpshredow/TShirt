@@ -5,6 +5,12 @@ VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TShirtWeb", "TShirtWeb\TShirtWeb.csproj", "{CB689294-0BEA-44B6-A209-AA702A7CBE0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TShirt.DataAccess", "TShirt.DataAccess\TShirt.DataAccess.csproj", "{8833C5EE-75C7-44AF-85B5-3B820B8F4D5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TShirt.Models", "TShirt.Models\TShirt.Models.csproj", "{87285B09-6D49-49B9-9F6D-570F2F05AFA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TShirt.Utility", "TShirt.Utility\TShirt.Utility.csproj", "{EBAE2E30-CD12-45DD-A01B-2BDB40F9E23A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{CB689294-0BEA-44B6-A209-AA702A7CBE0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB689294-0BEA-44B6-A209-AA702A7CBE0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB689294-0BEA-44B6-A209-AA702A7CBE0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8833C5EE-75C7-44AF-85B5-3B820B8F4D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8833C5EE-75C7-44AF-85B5-3B820B8F4D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8833C5EE-75C7-44AF-85B5-3B820B8F4D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8833C5EE-75C7-44AF-85B5-3B820B8F4D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87285B09-6D49-49B9-9F6D-570F2F05AFA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87285B09-6D49-49B9-9F6D-570F2F05AFA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87285B09-6D49-49B9-9F6D-570F2F05AFA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87285B09-6D49-49B9-9F6D-570F2F05AFA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBAE2E30-CD12-45DD-A01B-2BDB40F9E23A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBAE2E30-CD12-45DD-A01B-2BDB40F9E23A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBAE2E30-CD12-45DD-A01B-2BDB40F9E23A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBAE2E30-CD12-45DD-A01B-2BDB40F9E23A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

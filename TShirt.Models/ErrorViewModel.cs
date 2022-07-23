@@ -1,4 +1,4 @@
-namespace TShirtWeb.Models
+namespace TShirt.Models
 {
     public class ErrorViewModel
     {

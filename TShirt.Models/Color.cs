@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace TShirtWeb.Models
+namespace TShirt.Models
 {
     public class Color
     {
